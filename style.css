@@ -68,5 +68,26 @@
   margin-top:10px;
 
 }
+@media scrren and (max-width:600px){
+.nyut{
+  width:300px;  
+}
+.logo{
+  width:290px;
+}
+.video{
+  width:290px;
+}
+.info{
+  width:290px;
+}
+.img{
+  width:290px;
+}
+.text{
+  width:290px;
+}
+
+}
 
 
