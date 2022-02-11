@@ -5,5 +5,7 @@
 .glxavor{
   max-width:100%;
   heght:1000px;
-  background:url(https://images.app.goo.gl/w9XciB9GN7FViGFU8);
+  background:url(img.jpeg);
+  background-size:cover;
+  background-position:center;
 }
