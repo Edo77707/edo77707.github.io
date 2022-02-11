@@ -31,4 +31,32 @@
   font-size:140px;
   font-style:italic;
   font-wight:bolder;
+  text-align:center;
+  box-shadow:0px 0px 3px 2px;
+  
 }
+.video{
+  width:700px;
+  height:400px;
+  box-shadow:0px 0px 3px 2px;
+
+}
+.info{
+  width:700px;
+  height:400px;
+  box-shadow:0px 0px 3px 2px;
+
+}
+.img{
+  width:700px;
+  height:400px;
+  box-shadow:0px 0px 3px 2px;
+
+}
+.text{
+  width:700px;
+  height:400px;
+  box-shadow:0px 0px 3px 2px;
+
+}
+
