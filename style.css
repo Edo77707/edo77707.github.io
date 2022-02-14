@@ -31,6 +31,7 @@
 	text-align:center;
 	box-shadow:0px 0px 3px 2px;
 	background:rgba(0,0,0,0.5);
+	color:white;
   }
   .video{
 	width:700px;
@@ -45,6 +46,7 @@
 	box-shadow:0px 0px 3px 2px;
 	background:rgba(0,0,0,0.5);
 	margin-top:10px;
+	color:white;
   }
 .nkar{
      	width:700px;
@@ -66,6 +68,7 @@
 	box-shadow:0px 0px 3px 2px;
 	background:rgba(0,0,0,0.5);
 	margin-top:10px;
+	color:white;
   }
 .info>p{
 	color: rgb(0, 0, 0);
