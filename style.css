@@ -46,6 +46,13 @@
 	background:rgba(255,255,255,0.5);
 	margin-top:10px;
   }
+.nkar{
+     	width:700px;
+	height:400px;
+	background:url(kebab.jpg);
+	background-size:cover;
+	background-position:center;
+}
   .img{
 	width:700px;
 	height:600px;
