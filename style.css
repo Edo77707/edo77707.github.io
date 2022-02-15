@@ -4,7 +4,7 @@
   }
   .glxavor{
 	max-width:100%;
-	height:3300px;
+	height:3600px;
 	background:black;
 	background-size:100%;
 	background-position:start;
@@ -24,7 +24,7 @@
   }
   .logo{
 	width:700px;
-	height:500px;
+	height:600px;
 	font-size:170px;
 	font-style:italic;
 	font-weight:bolder;
@@ -252,6 +252,18 @@ label, a{ /*при наведении на стрелки или переклю�
 	}
 	.info>span{
 		font-size: 17px;
+	}
+	.vb{
+		width:50px;
+		height:50px;
+		background:url(vb.jpg);
+			
+	
+	}
+	.wh{
+	     	width:50px;
+		height:50px;
+		background:url(wh.png);
 	}
 	.img{
 	  width:290px;
