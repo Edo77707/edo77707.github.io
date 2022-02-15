@@ -57,6 +57,7 @@ p{
 	background:url(kebab.jpg);
 	background-size:cover;
 	background-position:center;
+	margin-top:10px;
 }
   .img{
 	width:700px;
